@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "fxWjeoZuBt5P/cxQkkuYrKV1LHDO/p1lRVdX3rmIXfwrhLSCLqt5fVwNP4/tNw07YVqpCs1kQyg4/nBMXqa7zA==",
+  "dgSpecHash": "bd11p49z7PSaK3suhkjcX/Rjtf6FmPfb6xQekx7Kz1y5VAyx5XZwZUdDwi/jIrkMitVm1GKv34Q/tT+68/DBOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Irfan Dwi Kusuma\\1_Irfan\\repos\\ecomindo-day1\\ecomindoDayOne\\ecomindoDayOne\\ecomindoDayOne.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Irfan Dwi Kusuma\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Irfan Dwi Kusuma\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Irfan Dwi Kusuma\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512"
+    "C:\\Users\\Irfan Dwi Kusuma\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.1\\swashbuckle.aspnetcore.6.3.1.nupkg.sha512",
+    "C:\\Users\\Irfan Dwi Kusuma\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\Irfan Dwi Kusuma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\Irfan Dwi Kusuma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
   ],
   "logs": []
 }
